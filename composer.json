@@ -1,0 +1,21 @@
+{
+    "name": "easyswoole/read-write-sub-table",
+    "version": "1.0.0",
+    "description": "read-write-sub-table",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "ReadWriteSubTable\\": "src/"
+        }
+    },
+	"repositories": [
+        {"type": "composer", "url": "https://mirrors.aliyun.com/composer/"},
+        {"packagist": false}
+    ],
+    "config" : {  
+        "vendor-dir" : "packages",
+        "secure-http": false  
+	},
+    "license": "MIT"
+}
