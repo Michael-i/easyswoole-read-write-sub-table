@@ -1,5 +1,5 @@
 {
-    "name": "easyswoole/read-write-sub-table",
+    "name": "easyswoole-yc/read-write-sub-table",
     "version": "1.0.0",
     "description": "read-write-sub-table",
     "require": {
